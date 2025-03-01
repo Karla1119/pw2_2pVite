@@ -47,3 +47,5 @@ jobs:
 
 #Nombre del archivo:
 # git commit -m "feat: CICD Workflow Implementation"
+# Settings > Pages > Source > Github Actions
+# Actions > Re-run all jobS se revisa que ya se haya cargado correctamente
